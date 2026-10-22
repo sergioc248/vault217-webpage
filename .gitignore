@@ -1,0 +1,9 @@
+/var/
+/tests/.artifacts/
+__pycache__/
+
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
